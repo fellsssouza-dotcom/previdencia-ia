@@ -1,6 +1,7 @@
 {
   "name": "previdencia-ia",
   "version": "1.0.0",
+  "description": "Bot de WhatsApp para previdência",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -11,5 +12,8 @@
     "dotenv": "^16.3.1",
     "body-parser": "^1.20.2",
     "@supabase/supabase-js": "^2.38.0"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
